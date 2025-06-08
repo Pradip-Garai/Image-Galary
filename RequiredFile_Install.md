@@ -1,22 +1,24 @@
-Backend
+<b><u>Backend</u></b><br>
 
-🟢 npm i bcrypt
-🟢 npm i body-parser
-🟢 npm i cors
-🟢 npm i dotenv
-🟢 npm i express
-🟢 npm i mongoose
-🟢 npm i nodemon
-🟢 npm i react-router-dom
+🟢 npm i bcrypt<br>
+🟢 npm i body-parser<br>
+🟢 npm i cors<br>
+🟢 npm i dotenv<br>
+🟢 npm i express<br>
+🟢 npm i mongoose<br>
+🟢 npm i nodemon<br>
+🟢 npm i react-router-dom<br>
 
 
-🟢 npm i cloudinary
-🟢 npm i multer
-🟢 npm i multer-storage-cloudinary
+<b><u>Cloudinay Image Galary</u></b><br>
 
-Frontend
+🟢 npm i cloudinary<br>
+🟢 npm i multer<br>
+🟢 npm i multer-storage-cloudinary<br>
 
-🟢 npm create vite@latest app_name
-🟢 npm i react-tostify
-🟢 npm i react-dropzone
-🟢 npm i bootstrap
+<b><u>Frontend</u></b><br>
+
+🟢 npm create vite@latest app_name<br>
+🟢 npm i react-tostify<br>
+🟢 npm i react-dropzone<br>
+🟢 npm i bootstrap<br>
