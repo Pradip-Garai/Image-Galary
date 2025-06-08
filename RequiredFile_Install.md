@@ -7,14 +7,14 @@
 🟢 npm i express<br>
 🟢 npm i mongoose<br>
 🟢 npm i nodemon<br>
-🟢 npm i react-router-dom<br>
+🟢 npm i react-router-dom<br><br>
 
 
 <b><u>Cloudinay Image Galary</u></b><br>
 
 🟢 npm i cloudinary<br>
 🟢 npm i multer<br>
-🟢 npm i multer-storage-cloudinary<br>
+🟢 npm i multer-storage-cloudinary<br><br>
 
 <b><u>Frontend</u></b><br>
 
